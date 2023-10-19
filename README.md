@@ -1,2 +1,1 @@
-# Muebleria
-Proyecto Codo a Codo 4.0, grupo 18
+# TP_Equipo18
